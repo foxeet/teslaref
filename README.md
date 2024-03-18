@@ -7,7 +7,10 @@ This is a site give everyone a site to share your tesla referral link, and gain 
 
 一切先从结果出发，请看下面截图。当然有点标题党，本人是tesla国内第一批车主，因此其实历史已经分享很多人购车，获得了历史记录。更多就是通过类似这样的文章，帮助大家了解车，然后分享引荐码链接（水山说互联网：Tesla特斯拉 model 3 Y X S 买车攻略提车购车指南2020 引荐码全解析。）
 特斯拉官网有关于超充额度的介绍，早期通过邀请就可以双方（引荐人、被引荐人）获得1500km免费超充额度。在近几年车主增多后，特斯拉逐渐减弱了赠送额度，变成了购车送3500积分不等，然后可以换成充电里程。所以这也导致了我购车3-5年，其实几乎没有花过电钱。
+
 ![特斯拉邀请码网站](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6LBIuqBtHMGrSvahQ76b4oOQZUwDnjaF2cbzb8SCpSZxsGQPvDicJIzQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![特拉斯超充额度]([https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6LBIuqBtHMGrSvahQ76b4oOQZUwDnjaF2cbzb8SCpSZxsGQPvDicJIzQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6STrJpyYcVGqfKdGFBsTJibPb1M6Y0297ljSP3oIE7IthBcw5WMRwLBg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1))
 
 # 如何让更多人看到你的引荐码？
 
@@ -15,11 +18,17 @@ This is a site give everyone a site to share your tesla referral link, and gain 
 用chatgpt搭建一个网站，让人们可以搜索到你的邀请码
 在chatgpt出来之后，有的更牛逼的方式让你的邀请码可以被检索到。先通过chatgpt生成网页。这里可以有你合适的需求，如果懂得基本网页设计规范，理解html、css、js，那就更方便。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6TibqJfRSs9pt8VbhbK1ELAWKEiaAP4At7RTeSFwIcic37gRv9EMktmd8w/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
+
 之后chatgpt会生成3个文件，你只要存到本地即可。
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6ibXn3ZicdytepRJWXjAtosxzXyGOEuBlcia1XE75ibfLGNafmvwpUjHl1A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
+
 网站的效果。Chatgpt生成的网站，你可以反复的交互，例如最开始我没有视频，我加入了这个视频的需求之后，chatgpt可以给出更好的视频插入能力。
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6GAxvnNfBEqGeAJECbs1kkpNyb0zKZLOfS0XjFyAghicJg208xPrVpPw/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 接下来，我把这个视频放到了我的文件夹中。
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6D89utqPQq2B3hwSiarAu4QIBvjicfFW0GTvI66icIP7lxCN184fBKwe4A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 # 如何让网站可以访问？
 
@@ -32,6 +41,7 @@ OSS一般是按需使用扣费，你充10块钱可以用好久。
 注意这里要设置全局可读取，然后在域名绑定里，设置你已经备案号的域名。
 
 在一切通过之后，你就拥有了自己网站，可以通过你的域名访问。
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6R6XHVNTiajtOL2gnyMHuHn59fbRenicOcXiby8ValpkJxYAJ3ONZvbzLQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 # 网站搜索优化（SEO）
 
