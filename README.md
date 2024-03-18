@@ -7,6 +7,7 @@ This is a site give everyone a site to share your tesla referral link, and gain 
 
 一切先从结果出发，请看下面截图。当然有点标题党，本人是tesla国内第一批车主，因此其实历史已经分享很多人购车，获得了历史记录。更多就是通过类似这样的文章，帮助大家了解车，然后分享引荐码链接（水山说互联网：Tesla特斯拉 model 3 Y X S 买车攻略提车购车指南2020 引荐码全解析。）
 特斯拉官网有关于超充额度的介绍，早期通过邀请就可以双方（引荐人、被引荐人）获得1500km免费超充额度。在近几年车主增多后，特斯拉逐渐减弱了赠送额度，变成了购车送3500积分不等，然后可以换成充电里程。所以这也导致了我购车3-5年，其实几乎没有花过电钱。
+![特斯拉邀请码网站](https://mmbiz.qpic.cn/sz_mmbiz_png/QIib7fibJMvvxeZBHmKKrsCrxLY6kTicTe6LBIuqBtHMGrSvahQ76b4oOQZUwDnjaF2cbzb8SCpSZxsGQPvDicJIzQ/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 # 如何让更多人看到你的引荐码？
 
