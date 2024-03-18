@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>特拉斯邀请码</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <video autoplay loop muted id="background-video">
+        <source src="videoplayback.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <header>
+        <img id="logo" src="logo.png" alt="Logo" style="background-color: white;">
+        <nav>
+            <ul>
+                <li><a href="#about">关于我们</a></li>
+                <li><a href="https://www.tesla.com" target="_blank">特斯拉官网</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div id="promo-overlay">
+            <a id="referral-link" href="https://www.tesla.cn/referral/foxeet42049" target="_blank">特拉斯引荐码：https://www.tesla.cn/referral/foxeet42049</a>
+        </div>
+        <button id="copy-code">复用邀请码</button>
+    </main>
+    <script src="script.js"></script>
+    <script>
+        document.getElementById('copy-link').onclick = function() {
+            navigator.clipboard.writeText('https://www.tesla.cn/referral/foxeet42049')
+            .then(() => {
+                // 模拟toast消息，实际项目中应使用更复杂的实现方式
+                alert('链接复制成功！');
+            })
+            .catch(err => {
+                alert('复制到剪贴板失败：', err);
+            });
+        };
+    </script>
+</body>
+</html>
